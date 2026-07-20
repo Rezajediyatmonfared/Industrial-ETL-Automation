@@ -79,14 +79,4 @@ This was especially valuable because the factory needed fast and accurate report
 3. Run `merge_sheets` to convert the workbook into a single sheet
 4. Use pivot tables when needed for higher-level aggregation and control review
 
----
 
-## Repository Structure
-```bash
-.
-├── sum_sheets.py
-├── merge_sheets.py
-├── data/
-│   └── sample_files/
-├── README.md
-└── requirements.txt
